@@ -1,0 +1,8 @@
+[package]
+name = "imu-arrow-demo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arrow-array = "60"
+arrow-schema = "60"
